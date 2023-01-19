@@ -1,5 +1,4 @@
-![Webp net-resizeimage](https://user-images.githubusercontent.com/52134801/111212108-381f7700-85f5-11eb-923d-35ab335b35a4.png)
-
+# Mobile Application Development Project 2023 
 # QuizMaster
 
 This is a android app which focuses on a MCQ based quiz app. It has admin panel for upload quizes.
